@@ -1,5 +1,5 @@
 # JAUNDICE HEALTH INSPECTION
-JAUNDICE INSPECTION TOOL
+#JAUNDICE INSPECTION TOOL
 ####################################################[[JAUNDICE HEALTH INSPECTION]]#########################################################                    ##########################################################################################################################################
 import matplotlib.pyplot as plt
 def user_name():

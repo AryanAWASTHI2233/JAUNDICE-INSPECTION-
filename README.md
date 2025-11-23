@@ -100,7 +100,7 @@ Confirm no repeated questions (function called once)
 ####CODE#####
 # JAUNDICE HEALTH INSPECTION
 #JAUNDICE INSPECTION TOOL
-####################################################[[JAUNDICE HEALTH INSPECTION]]#########################################################
+###[[JAUNDICE HEALTH INSPECTION]]###
 import matplotlib.pyplot as plt
 def user_name():
      name = input('ENTER NAME:')
@@ -153,4 +153,4 @@ score, status=get_symptoms()
 print('\nStatus:, status')
 print('Score:', score)
 show_pie_chart(score)
-#######################################################################################################################################################################################
+########################################################################

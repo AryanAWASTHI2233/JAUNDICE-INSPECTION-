@@ -100,3 +100,10 @@ Test invalid inputs to ensure the program doesn’t crash
 Verify the pie chart always shows correct percentages
 
 Confirm no repeated questions (function called once)
+
+
+SCREENSHOTS:
+<img width="1920" height="1080" alt="Screenshot 2025-11-22 224936" src="https://github.com/user-attachments/assets/d10fc6b2-2e82-4dea-819c-f4999fff3a7e" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-22 224947" src="https://github.com/user-attachments/assets/c24b46fa-dc14-456e-adce-689151af1fd2" />
+
+

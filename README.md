@@ -1,7 +1,7 @@
 ####CODE#####
 # JAUNDICE HEALTH INSPECTION
 #JAUNDICE INSPECTION TOOL
-####################################################[[JAUNDICE HEALTH INSPECTION]]#########################################################                    ##########################################################################################################################################
+####################################################[[JAUNDICE HEALTH INSPECTION]]#########################################################
 import matplotlib.pyplot as plt
 def user_name():
      name = input('ENTER NAME:')
@@ -21,9 +21,7 @@ def get_symptoms():
      ]
      score = 0
      selected = []
-
      print("Please answer with y/n:\n")
-
      for symptom in symptoms:
          ans = input("Experiencing " + symptom + "? (y/n): ")
          if ans.lower() == "y":
